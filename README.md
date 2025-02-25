@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **Python, SQL, Math & Statistics, Data Visualization, and Excel**
 
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
+- 👯‍♂️ I’m looking to collaborate on **Open Source Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PiyushPanwarFST](https://github.com/PiyushPanwarFST)
 
-- 📫 How to reach me: **piyush2002panwar@gmail.com**
+- 👨‍✈️ How to reach me: **piyush2002panwar@gmail.com**
 
 - ⚡ Fun fact: **I love exploring new datasets and deriving meaningful insights!**
 
@@ -58,20 +58,29 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats & Achievements:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpanwarfst&show_icons=true&locale=en&layout=compact&theme=radical" alt="piyushpanwarfst" />
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushpanwarfst&show_icons=true&locale=en&theme=radical" alt="piyushpanwarfst" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpanwarfst&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpanwarfst&theme=radical" alt="piyushpanwarfst" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushpanwarfst&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpanwarfst&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpanwarfst&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -97,5 +106,7 @@
 <div align="center">
   <img src="https://github.com/piyushpanwarfst/piyushpanwarfst/raw/main/assets/wave.gif" alt="wave" width="400"/>
 </div>
+
+
 
 
