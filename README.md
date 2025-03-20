@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Passionate+about+Data+Science+and+ML;Open+Source+Contributor+%26+Collaborator;Lifelong+Learner+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Welcome GIF" />
+</div>
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> 
 </p>
@@ -24,6 +29,15 @@
 - ⚡ Fun fact: **I love exploring new datasets and deriving meaningful insights!**
 
 ---
+
+## 🌍 Open Source Contributions
+
+- 🌟 Participated in [Hacktoberfest](https://hacktoberfest.com/about/) to complete multiple open-source PRs.
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/4658208/193300555-4a2a7bdf-7b2d-4f3c-ae6b-5a8a7e5d2f80.png" alt="Hacktoberfest Sticker" width="200"/>
+  </div>
+- 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
