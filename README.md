@@ -34,7 +34,7 @@
 
 - 🌟 Participated in [Hacktoberfest](https://hacktoberfest.com/about/) to complete multiple open-source PRs.
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/4658208/193300555-4a2a7bdf-7b2d-4f3c-ae6b-5a8a7e5d2f80.png" alt="Hacktoberfest Sticker" width="200"/>
+    <img src="[https://user-images.githubusercontent.com/4658208/193300555-4a2a7bdf-7b2d-4f3c-ae6b-5a8a7e5d2f80.png](https://boards.holopin.io/avinashkrsingh01)" alt="Hacktoberfest Sticker" width="200"/>
   </div>
 - 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
 
