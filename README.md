@@ -34,12 +34,9 @@
 
 🌟 Participated in [Hacktoberfest](https://www.holopin.io/@piyushpanwarfst#badges) to complete multiple open-source PRs.
 
-<div align="center">
-  <img src="[https://www.holopin.io/@piyushpanwarfst#badges](https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024 Badge" width="300"/>
-</div>
+ [![An image of @avinashkrsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashkrsingh01)](https://holopin.io/@avinashkrsingh01)
 
-
-- 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
+  - 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
 
 
 <h3 align="center">Languages and Tools:</h3>
