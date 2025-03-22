@@ -32,10 +32,13 @@
 
 ## 🌍 Open Source Contributions
 
-- 🌟 Participated in [Hacktoberfest](https://hacktoberfest.com/about/) to complete multiple open-source PRs.
-  <div align="center">
-    <img src="[https://user-images.githubusercontent.com/4658208/193300555-4a2a7bdf-7b2d-4f3c-ae6b-5a8a7e5d2f80.png](https://boards.holopin.io/avinashkrsingh01)" alt="Hacktoberfest Sticker" width="200"/>
-  </div>
+🌟 Participated in [Hacktoberfest](https://www.holopin.io/@piyushpanwarfst#badges) to complete multiple open-source PRs.
+
+<div align="center">
+  <img src="[https://www.holopin.io/@piyushpanwarfst#badges](https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024 Badge" width="300"/>
+</div>
+
+
 - 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
 
 
