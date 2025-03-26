@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=piyushpanwarfst&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=PiyushPanwarFST&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
