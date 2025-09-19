@@ -1,126 +1,103 @@
-<h1 align="center">Hi 👋, I'm Piyush Panwar</h1>
-<h3 align="center">A Data Enthusiast & Open Source Contributor from India</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Passionate+about+Data+Science+and+ML;Open+Source+Contributor+%26+Collaborator;Lifelong+Learner+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&text=Hi%20there!%20I'm%20Piyush&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Welcome GIF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Data+Enthusiast+%26+ML+Explorer;Open+Source+Contributor;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> 
-</p>
-
-- 🔭 I’m currently working on **Data Analysis and Machine Learning Projects**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Engineering**
-
-- 💬 Ask me about **Python, SQL, Math & Statistics, Data Visualization, and Excel**
-
-- 👯‍♂️ I’m looking to collaborate on **Open Source Data Science Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PiyushPanwarFST](https://github.com/PiyushPanwarFST)
-
-- 👨‍✈️ How to reach me: **piyush2002panwar@gmail.com**
-
-- ⚡ Fun fact: **I love exploring new datasets and deriving meaningful insights!**
-
----
-
-## 🌍 Open Source Contributions
-
-🌟 Participated in [Hacktoberfest](https://www.holopin.io/@piyushpanwarfst#badges) to complete multiple open-source PRs.
-
- [![An image of @avinashkrsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinashkrsingh01)](https://holopin.io/@avinashkrsingh01)
-
-  - 💻 Contributed to [GirlScript Summer of Code](https://in.linkedin.com/company/girlscriptsoc) (GSSoC), collaborating on impactful projects.
-
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://github.com/PiyushPanwarFST?tab=followers">
+    <img src="https://img.shields.io/github/followers/PiyushPanwarFST?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats & Achievements:</h3>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>🚀 About Me</h2>
+      <p>
+        I'm a passionate Data Enthusiast and Open Source Contributor from India, with a keen interest in leveraging data to build intelligent solutions. I thrive on exploring new datasets, uncovering hidden patterns, and collaborating on impactful projects.
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Data Analysis and Machine Learning Projects</strong>.</li>
+        <li>🌱 I’m mastering <strong>Advanced ML, Deep Learning, and Data Engineering concepts</strong>.</li>
+        <li>👯 I’m looking to collaborate on <strong>innovative open-source data science projects</strong>.</li>
+        <li>💬 Ask me about anything related to <strong>Python, SQL, Statistics, or Data Visualization</strong>.</li>
+        <li>📫 How to reach me: <strong>piyush2002panwar@gmail.com</strong></li>
+        <li>⚡ Fun fact: I believe every dataset has a story to tell!</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <h2>📊 GitHub Stats</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=piyushpanwarfst&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpanwarfst&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>Connect with Me</h2>
 <p align="center">
+  <a href="https://linkedin.com/in/piyushpanwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@piyushpanwar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.youtube.com/channel/UCmq8cKCE8LpPOSaIOf8CbXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.hackerrank.com/piyush2002panwar" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.leetcode.com/piyush12341" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+</p>
+
+---
+
+<h2>🛠️ Languages and Tools</h2>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+</p>
+
+---
+
+<h2>🏆 GitHub Trophies & Contributions</h2>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpanwarfst&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushpanwarfst&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=PiyushPanwarFST&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpanwarfst&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/piyushpanwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@piyushpanwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCmq8cKCE8LpPOSaIOf8CbXw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/piyush2002panwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/piyush12341" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/piyushpanwarfst/piyushpanwarfst/raw/main/assets/wave.gif" alt="wave" width="400"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=PiyushPanwarFST&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<h2>🌍 My Open Source Journey</h2>
+<p align="center">
+  <i>I believe in the power of community and collaborative learning.</i>
+</p>
+<div align="center">
+  <h4>🌟 Hacktoberfest Contributor</h4>
+  <a href="https://holopin.io/@piyushpanwarfst">
+    <img src="https://holopin.me/piyushpanwarfst" alt="My Holopin Badges">
+  </a>
+  <h4>💻 GirlScript Summer of Code (GSSoC)</h4>
+  <p>Contributed to impactful projects during the program, collaborating with a diverse team.</p>
+</div>
 
+---
 
+<h2>📊 My Contribution Graph</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PiyushPanwarFST/PiyushPanwarFST/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github.com/piyushpanwarfst/piyushpanwarfst/raw/main/assets/wave.gif" alt="wave" width="350"/>
+</div>
