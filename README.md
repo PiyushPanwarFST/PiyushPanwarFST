@@ -80,14 +80,7 @@
 <p align="center">
   <i>I believe in the power of community and collaborative learning.</i>
 </p>
-<div align="center">
-  <h4>🌟 Hacktoberfest Contributor</h4>
-  <a href="https://holopin.io/@piyushpanwarfst">
-    <img src="https://holopin.me/piyushpanwarfst" alt="My Holopin Badges">
-  </a>
-  <h4>💻 GirlScript Summer of Code (GSSoC)</h4>
-  <p>Contributed to impactful projects during the program, collaborating with a diverse team.</p>
-</div>
+
 
 ---
 
